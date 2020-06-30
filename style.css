@@ -1,0 +1,113 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    margin: 0px;
+    background-color: whitesmoke;
+}
+#bbc{
+    background-color: whitesmoke;
+}
+
+h1{
+    font-size: 50px;
+}
+.name{
+    color: darkolivegreen;
+    font-size: 58px;
+}
+p{
+    text-align: justify;
+}
+.half{
+    float: left;
+    width: 45%;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.half img{
+    width: 85%;
+}
+#sec1{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section .upper{
+    height: 450px;
+    padding-bottom: 200px;
+}
+.linkb{
+    background-color: darkorange;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-overflow: initial;
+    background-image: linear-gradient(45deg, yellow, green)
+}
+.img1 img{
+    width: 40%;
+}
+div .img2{
+    float: left;
+    width: 20%;
+   
+}
+#sec2 {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.half2{
+    margin: auto;
+  width: 45%;
+  padding: 10px;
+  float: right;
+  text-align: start;
+  text-decoration: yellow;
+  text-size-adjust: 100px;
+}
+.brief{
+    font-size: 50px;
+    color: lawngreen;
+}
+
+.last{
+    height: 750px;
+    padding-bottom: 200px;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.time{
+    color: yellowgreen;
+}
+.single-ex{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    
+}
+.last{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#tbar{
+    border-left: 7px solid;
+    border-image: linear-gradient(45deg, yellowgreen, black);
+    border-image-slice: 1;
+    background-color: whitesmoke;
+}
+#ttbar{
+    border-right: 7px solid;
+    border-image: linear-gradient(45deg, yellowgreen, red);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 25px;
+}
